@@ -1,2 +1,7 @@
 # VLSI-Learning
-My VLSI learning journy and my projects
+This repository contains my VLASI learning, notes, and projects.
+## Topics I am learning
+- Digital Logic
+- Verilog
+- RTL Design
+- Verification
