@@ -4,4 +4,4 @@ This repository contains my VLASI learning, notes, and projects.
 - Digital Logic
 - Verilog
 - RTL Design
-- Verification
+- Verification.
